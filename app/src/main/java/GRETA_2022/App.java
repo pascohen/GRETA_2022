@@ -5,7 +5,7 @@ package GRETA_2022;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Salut tout le monde!";
     }
 
     public static void main(String[] args) {
